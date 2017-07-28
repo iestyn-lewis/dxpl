@@ -2,6 +2,8 @@
 
 The CZ Patch Library (CZPL) is a little black box with over 1200 patches for the Casio CZ series.  Brasses, basses, pads, leads, percussion, drums, it's all in there.  
 
+![Image of CZPL](./images/big.jpg)
+
 ## How do I connect it?
 
 Plug the MIDI cable into your Casio CZ-101, CZ-1000, CZ-3000, CZ-5000, or CZ-230S synthesizer and power the CZPL via USB or a 9V power adapter.  
@@ -24,7 +26,7 @@ Here is a video of a preproduction version.  Please note that the production ver
 
  * Price is $79 USD.
  * Shipping is $10 to the US.  
- * For international shipping, please [contact me](iestyn.lewis@gmail.com] before placing your order.
+ * For international shipping, please [contact me](iestyn.lewis@gmail.com) before placing your order.
 
 ## How can I get one?
 
@@ -35,4 +37,10 @@ Use the PayPal button here to order via PayPal or credit card.  Please Read All 
 * I do not have automated production facilities.  Please look at the pictures carefully so you understand exactly what to expect in terms of the way the product looks.
 * Refunds offered only with evidence that there is a fault with the product.  
 
+## Can you make it do other things/save patches/work with the CZ-1/work with other synths?
 
+Maybe!  Especially if you're willing to help out with equipment and testing.
+
+## I have other questions!
+
+Contact me:  [iestyn.lewis@gmail.com](iestyn.lewis@gmail.com)
