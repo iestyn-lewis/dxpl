@@ -14,6 +14,8 @@ Enter the number of the patch you want to hear and press the A button.  The patc
 
 Here is a video of a preproduction version.  Please note that the production version has over 1200 patches, not the 450 as stated in the video.  
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gLdG_PXHO4w?ecver=1" frameborder="0" allowfullscreen></iframe>
+
 ## What patches are included?
 
 [Here's the full list.](http://google.com)
