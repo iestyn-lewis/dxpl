@@ -12,7 +12,7 @@ Enter the number of the patch you want to hear and press the A button.  The patc
 
 ## How can I see it in action?
 
-Here is a video of a preproduction version:
+Here is a video of a preproduction version.  Please note that the production version has over 1200 patches, not the 450 as stated in the video.  
 
 ## What patches are included?
 
