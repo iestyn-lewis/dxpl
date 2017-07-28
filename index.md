@@ -42,6 +42,20 @@ Use the PayPal button here to order via PayPal or credit card.  Please Read All 
 <img src="images/all.JPG" width="560" />
 <img src="images/back.JPG" width="560" />
 
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="3SDW49N6AV32C">
+<table>
+<tr><td><input type="hidden" name="on0" value="Options">Options</td></tr><tr><td><select name="os0">
+	<option value="No Power Adapter">No Power Adapter $79.00 USD</option>
+	<option value="With Power Adapter">With Power Adapter $84.00 USD</option>
+</select> </td></tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
 ## Can you make it do other things/save patches/work with the CZ-1/work with other synths?
 
 Maybe!  Especially if you're willing to help out with equipment and testing.
