@@ -48,4 +48,4 @@ Maybe!  Especially if you're willing to help out with equipment and testing.
 
 ## I have other questions!
 
-Contact me:  <a href="mailto:iestyn.lewis@gmail.com">contact me</a>
+Contact me:  <a href="mailto:iestyn.lewis@gmail.com">iestyn.lewis@gmail.com</a>
