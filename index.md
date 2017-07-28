@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Casio CZ Series Patch Library
 
 You can use the [editor on GitHub](https://github.com/iestyn-lewis/czpl/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
