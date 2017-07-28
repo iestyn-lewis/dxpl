@@ -2,7 +2,7 @@
 
 The CZ Patch Library (CZPL) is a little black box with over 1200 patches for the Casio CZ series.  Brasses, basses, pads, leads, percussion, drums, it's all in there.  
 
-<img src='https://iestyn-lewis.github.io/czpl/images/big.JPG' width=560 />
+<img src="https://iestyn-lewis.github.io/czpl/images/big.JPG" width=560 />
 
 ## How do I connect it?
 
