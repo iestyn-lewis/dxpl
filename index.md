@@ -1,37 +1,29 @@
-## Casio CZ Series Patch Library
+## What is it?
 
-You can use the [editor on GitHub](https://github.com/iestyn-lewis/czpl/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The CZ Patch Library (CZPL) is a little black box with over 1200 patches for the Casio CZ series.  Brasses, basses, pads, leads, percussion, drums, it's all in there.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## How do I connect it?
 
-### Markdown
+Plug the MIDI cable into your Casio CZ-101, CZ-1000, CZ-3000, CZ-5000, or CZ-230S synthesizer and power the CZPL via USB or a 9V power adapter.  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## How do I use it?
 
-```markdown
-Syntax highlighted code block
+Enter the number of the patch you want to hear and press the A button.  The patch is instantly loaded into your Casio's Memory slot A1.  From here you can save the patch to any of your Casio's Memory locations.  Or, browse the library using the # and * keys.
 
-# Header 1
-## Header 2
-### Header 3
+## How can I see it in action?
 
-- Bulleted
-- List
+Here is a video of a preproduction version:
 
-1. Numbered
-2. List
+## What patches are included?
 
-**Bold** and _Italic_ and `Code` text
+[Here's the full list.](http://google.com)
 
-[Link](url) and ![Image](src)
-```
+## How can I get one?
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Use the Paypal button here to order.  Please Read All of the Following carefully before ordering:
+ *Payment is accepted via Paypal or credit cards.  
+ *Price is $79.
+ *Shipping is $10 to the US.  
+ *For international shipping, please [contact me](mailto:iestyn.lewis@gmail.com] before placing your order.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iestyn-lewis/czpl/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
