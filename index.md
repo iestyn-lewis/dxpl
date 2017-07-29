@@ -50,8 +50,8 @@ Scroll down to order via PayPal or credit card.
 <input type="hidden" name="hosted_button_id" value="3SDW49N6AV32C">
 <table>
 <tr><td><input type="hidden" name="on0" value="Options">Options</td></tr><tr><td><select name="os0">
-	<option value="No Power Adapter">No Power Adapter $79.00 USD</option>
-	<option value="With Power Adapter">With Power Adapter $84.00 USD</option>
+	<option value="No Power Adapter">No Power Adapter $79.00 USD + $10 shipping</option>
+	<option value="With Power Adapter">With Power Adapter $84.00 USD + $10 shipping</option>
 </select> </td></tr>
 <tr><td><input type="hidden" name="on1" value="Your CZ Model:">Your CZ Model:</td></tr><tr><td><select name="os1">
 	<option value="-- Select Model --">-- Select Model -- </option>
