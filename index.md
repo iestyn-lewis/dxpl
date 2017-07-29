@@ -1,6 +1,6 @@
 ## What is it?
 
-The CZ Patch Library (CZPL) is a little black box with over 1200 patches for the Casio CZ series.  Brasses, basses, pads, leads, percussion, drums, it's all in there.  
+The CZ Patch Library (CZPL) is a little black box with 1000 patches for the Casio CZ series.  Brasses, basses, pads, leads, percussion, drums, it's all in there.  
 
 <img src="images/big.JPG" width="560" />
 
@@ -16,13 +16,13 @@ Enter the number of the patch you want to hear and press the A button.  The patc
 
 ## How can I see it in action?
 
-Here is a video of a preproduction version.  Please note that the production version has over 1200 patches, not the 450 as stated in the video.  
+Here is a video of a preproduction version.  Please note that the production version has 1000 patches, not the 450 as stated in the video.  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gLdG_PXHO4w?ecver=1" frameborder="0" allowfullscreen></iframe>
 
 ## What patches are included?
 
-[Here's the full list.](http://google.com)
+[Here's the full list.](https://docs.google.com/spreadsheets/d/1ojq8HfeUROle8wx2NTdkEOGCmK_44NQMg03UO74Cbng/edit?usp=sharing)
 
 ## How much is it?
 
@@ -58,7 +58,7 @@ Use the PayPal button here to order via PayPal or credit card.  Please Read All 
 
 ## Can you make it do other things/save patches/work with the CZ-1/work with other synths?
 
-Maybe!  Especially if you're willing to help out with equipment and testing.
+Maybe!  Especially if you're willing to help out with equipment and testing.  Shoot me an email below.  
 
 ## I have other questions!
 
