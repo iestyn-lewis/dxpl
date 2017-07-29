@@ -6,7 +6,7 @@ The CZ Patch Library (CZPL) is a little black box with 1000 patches for the Casi
 
 ## How do I connect it?
 
-Plug the MIDI cable into your Casio CZ-101, CZ-1000, CZ-3000, CZ-5000, or CZ-230S synthesizer and power the CZPL via USB or a 9V power adapter.  
+Plug the MIDI cable into your Casio CZ-101, CZ-1000, CZ-3000, CZ-5000, or CZ-230S synthesizer and power the CZPL via USB or a 9V power adapter (center positive).  
 
 <img src="images/connected.png" width="560" rotate="180"/>
 
@@ -32,7 +32,7 @@ Here is a video of a preproduction version.  Please note that the production ver
 
 ## How can I get one?
 
-Use the PayPal button here to order via PayPal or credit card.  
+Scroll down to order via PayPal or credit card.  
 
 *Please Read All of the Following carefully before ordering:*
 
