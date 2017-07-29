@@ -53,6 +53,14 @@ Scroll down to order via PayPal or credit card.
 	<option value="No Power Adapter">No Power Adapter $79.00 USD</option>
 	<option value="With Power Adapter">With Power Adapter $84.00 USD</option>
 </select> </td></tr>
+<tr><td><input type="hidden" name="on1" value="Your CZ Model:">Your CZ Model:</td></tr><tr><td><select name="os1">
+	<option value="-- Select Model --">-- Select Model -- </option>
+	<option value="CZ-101">CZ-101 </option>
+	<option value="CZ-1000">CZ-1000 </option>
+	<option value="CZ-3000">CZ-3000 </option>
+	<option value="CZ-5000">CZ-5000 </option>
+	<option value="CZ-230S">CZ-230S </option>
+</select> </td></tr>
 </table>
 <input type="hidden" name="currency_code" value="USD">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
