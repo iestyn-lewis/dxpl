@@ -22,7 +22,7 @@ Here is a video of a preproduction version.  Please note that the production ver
 
 ## What patches are included?
 
-[Here's the full list.](https://docs.google.com/spreadsheets/d/1ojq8HfeUROle8wx2NTdkEOGCmK_44NQMg03UO74Cbng/edit?usp=sharing)
+<a target="_blank" href="https://docs.google.com/spreadsheets/d/1ojq8HfeUROle8wx2NTdkEOGCmK_44NQMg03UO74Cbng/edit?usp=sharing">Here's the full list.</a>
 
 ## How much is it?
 
