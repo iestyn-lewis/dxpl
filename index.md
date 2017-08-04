@@ -2,7 +2,7 @@
 
 The CZ Preset Library (CZPL) is a little black box with 1000 patches for the Casio CZ series.  Brasses, basses, pads, leads, percussion, drums, it's all in there.  
 
-<img src="images/big.JPG" width="560" />
+<iframe width="720" height="480" src="https://www.youtube.com/embed/YFT0XmfXHAQ?ecver=1" frameborder="0" allowfullscreen></iframe>
 
 ## How do I connect it?
 
@@ -14,13 +14,19 @@ Plug the MIDI cable into your Casio CZ-101, CZ-1000, CZ-3000, CZ-5000, or CZ-230
 
 Enter the number of the patch you want to hear and press the A button.  The patch is instantly loaded into your Casio's Memory slot A1.  From here you can save the patch to any of your Casio's Memory locations.  Or, browse the library using the # and * keys.
 
-## How can I see it in action?
-
-Here is a video!
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YFT0XmfXHAQ?ecver=1" frameborder="0" allowfullscreen></iframe>
-
 ## What patches are included?
+
+* 91 Basses
+* 31 Brasses
+* 82 Drums
+* 73 FX
+* 89 Pianos/EPianos
+* 65 Organs
+* 64 Strings
+* 338 Synths/Leads/Pads
+* 53 Tuned Percussion
+* 13 Voices
+* 76 Winds
 
 <a target="_blank" href="https://docs.google.com/spreadsheets/d/1ojq8HfeUROle8wx2NTdkEOGCmK_44NQMg03UO74Cbng/edit?usp=sharing">Here's the full list.</a>
 
@@ -36,14 +42,15 @@ Scroll down to order via PayPal or credit card.
 
 *Please Read All of the Following carefully before ordering:*
 
-* The product DOES NOT WORK WITH THE CZ-1.  Do not order one if you plan to use it with a CZ-1!  I hope to get it working with the CZ-1 in the future.  
+* The product DOES NOT WORK WITH THE CZ-1.  
 * The product is MADE-TO-ORDER.  I do not usually have stock in-house.  In most cases your unit will be on its way to you within 1 week of your order.  I will communicate with you via email to give you updates along the way.  
 * This is a handmade product, which I am trying to provide as inexpensively as possible.  
 * Please look at the pictures carefully so you understand exactly what to expect in terms of the way the product looks.
-* Refunds offered only with evidence that there is a fault with the product.  
+* Refunds offered only with evidence that there is an electronic fault with the product.  
 
-<img src="images/all.JPG" width="560" />
-<img src="images/back.JPG" width="560" />
+<img src="images/big.JPG" width="320">
+<img src="images/all.JPG" width="320" />
+<img src="images/back.JPG" width="320" />
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
