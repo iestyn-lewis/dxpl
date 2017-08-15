@@ -16,6 +16,8 @@ Enter the number of the patch you want to hear and press the A button.  The patc
 
 ## What patches are included?
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HUhO5O9OCFc?ecver=1" frameborder="0" allowfullscreen></iframe>
+
 * 91 Basses
 * 31 Brasses
 * 82 Drums
