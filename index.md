@@ -1,40 +1,46 @@
 ## What is it?
 
-The CZ Preset Library (CZPL) is a little black box with 1000 patches for the Casio CZ series.  Brasses, basses, pads, leads, percussion, drums, it's all in there.  
+The CZ Patch Library (CZPL) is a little black box for the Casio CZ series of synthesizers.  It contains:
+
+* 2,186 presets.  Brasses, basses, pads, leads, percussion, drums, it's all in there.  
+* 10,000 slots to store the patches you create on the CZ!  No longer are you limited to saving only 16 or 32 patches you create.
 
 <iframe width="720" height="480" src="https://www.youtube.com/embed/YFT0XmfXHAQ?ecver=1" frameborder="0" allowfullscreen></iframe>
 
 ## How do I connect it?
 
-Plug the MIDI cable into your Casio CZ-101, CZ-1000, CZ-3000, CZ-5000, or CZ-230S synthesizer and power the CZPL via USB or a 9V power adapter (center positive).  
+Connect the CZPL to your Casio CZ-101, CZ-1000, CZ-3000, CZ-5000, or CZ-230S synthesizer with 2 MIDI cables and power the CZPL via USB or a 9V power adapter (center positive).  
+
+You can then connect external gear to the CZPL and all MIDI messages will be passed through to the Casio.  This lets you use sequencers and external controllers without having to unplug and plug cables.
 
 <img src="images/connected.png" width="560" rotate="180"/>
 
 ## How do I use it?
 
+### Preset Mode
 Enter the number of the patch you want to hear and press the A button.  The patch is instantly loaded into your Casio's Memory slot A1.  From here you can save the patch to any of your Casio's Memory locations.  Or, browse the library using the # and * keys.
 
-## What patches are included?
+## What presets are included?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HUhO5O9OCFc?ecver=1" frameborder="0" allowfullscreen></iframe>
 
-* 91 Basses
-* 31 Brasses
-* 82 Drums
-* 73 FX
-* 89 Pianos/EPianos
-* 65 Organs
-* 64 Strings
-* 338 Synths/Leads/Pads
-* 53 Tuned Percussion
-* 13 Voices
-* 76 Winds
+* Basses
+* Brasses
+* Drums
+* FX
+* Pianos/EPianos
+* Organs
+* Strings
+* Synths/Leads/Pads
+* Tuned Percussion
+* Voices
+* Winds
 
-<a target="_blank" href="https://docs.google.com/spreadsheets/d/1ojq8HfeUROle8wx2NTdkEOGCmK_44NQMg03UO74Cbng/edit?usp=sharing">Here's the full list.</a>
+<a target="_blank" href="https://docs.google.com/spreadsheets/d/1aBXZzynCTBAEIJE_-qpbOY2Ihl4fIZFf_pI1sdicU9w/edit?usp=sharing">VIEW THE FULL LIST HERE</a>
 
 ## How much is it?
 
- * Price is $79 USD.
+ * Price is $139 USD.
  * Shipping is $10 to the US.  
  * For international shipping, please <a href="mailto:iestyn.lewis@gmail.com">contact me</a> before placing your order.
 
@@ -46,7 +52,7 @@ Scroll down to order via PayPal or credit card.
 
 * The product DOES NOT WORK WITH THE CZ-1.  
 * The product is MADE-TO-ORDER.  I do not usually have stock in-house.  In most cases your unit will be on its way to you within 1 week of your order.  I will communicate with you via email to give you updates along the way.  
-* This is a handmade product, which I am trying to provide as inexpensively as possible.  
+* The enclosure is 3D printed. 3D printed objects are not 100% smooth. 
 * Please look at the pictures carefully so you understand exactly what to expect in terms of the way the product looks.
 * Refunds offered only with evidence that there is an electronic fault with the product.  
 
@@ -59,8 +65,8 @@ Scroll down to order via PayPal or credit card.
 <input type="hidden" name="hosted_button_id" value="3SDW49N6AV32C">
 <table>
 <tr><td><input type="hidden" name="on0" value="Options">Options</td></tr><tr><td><select name="os0">
-	<option value="No Power Adapter">No Power Adapter $79.00 USD + $10 shipping</option>
-	<option value="With Power Adapter">With Power Adapter $84.00 USD + $10 shipping</option>
+	<option value="No Power Adapter">No Power Adapter $139.00 USD + $10 shipping</option>
+	<option value="With Power Adapter">With Power Adapter $144.00 USD + $10 shipping</option>
 </select> </td></tr>
 <tr><td><input type="hidden" name="on1" value="Your CZ Model:">Your CZ Model:</td></tr><tr><td><select name="os1">
 	<option value="-- Select Model --">-- Select Model -- </option>
@@ -76,10 +82,6 @@ Scroll down to order via PayPal or credit card.
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-## Can you make it do other things/save patches/work with the CZ-1/work with other synths?
-
-Maybe!  Especially if you're willing to help out with equipment and testing.  Shoot me an email below.  
-
-## I have other questions!
+## I have questions!
 
 Contact me:  <a href="mailto:iestyn.lewis@gmail.com">iestyn.lewis@gmail.com</a>
