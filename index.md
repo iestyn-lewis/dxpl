@@ -5,7 +5,7 @@ The CZ Patch Library (CZPL) is a little black box for the Casio CZ series of syn
 * 2,186 presets.  Brasses, basses, pads, leads, percussion, drums, it's all in there.  
 * 10,000 slots to store the patches you create on the CZ!  No longer are you limited to saving only 16 or 32 patches you create.
 
-<iframe width="720" height="480" src="https://www.youtube.com/embed/YFT0XmfXHAQ?ecver=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="720" height="480" src="https://www.youtube.com/embed/IOd8-aQ9bt8?ecver=1" frameborder="0" gesture="media" allowfullscreen></iframe>
 
 ## How do I connect it?
 
@@ -13,7 +13,7 @@ Connect the CZPL to your Casio CZ-101, CZ-1000, CZ-3000, CZ-5000, or CZ-230S syn
 
 You can then connect external gear to the CZPL and all MIDI messages will be passed through to the Casio.  This lets you use sequencers and external controllers without having to unplug and plug cables.
 
-<img src="images/connected.png" width="560" rotate="180"/>
+<img src="images/v2connected.png" width="560" />
 
 ## How do I use it?
 
@@ -42,8 +42,8 @@ Enter the number of the patch you want to hear and press the A button.  The patc
 
  * Price is $139 USD.
  * Shipping is $10 to the US.  
- * For international shipping, please <a href="mailto:iestyn.lewis@gmail.com">contact me</a> before placing your order.
-
+ * Shipping is $35 outside the US, as long as USPS Priority Mail delivers to your location
+ 
 ## How can I get one?
 
 Scroll down to order via PayPal or credit card.  
@@ -56,17 +56,18 @@ Scroll down to order via PayPal or credit card.
 * Please look at the pictures carefully so you understand exactly what to expect in terms of the way the product looks.
 * Refunds offered only with evidence that there is an electronic fault with the product.  
 
-<img src="images/big.JPG" width="320">
-<img src="images/all.JPG" width="320" />
-<img src="images/back.JPG" width="320" />
+<img src="images/v2front.JPG" width="320">
+<img src="images/v2back.JPG" width="320" />
+<img src="images/v2midi.JPG" width="320" />
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="3SDW49N6AV32C">
 <table>
 <tr><td><input type="hidden" name="on0" value="Options">Options</td></tr><tr><td><select name="os0">
-	<option value="No Power Adapter">No Power Adapter $139.00 USD + $10 shipping</option>
-	<option value="With Power Adapter">With Power Adapter $144.00 USD + $10 shipping</option>
+	<option value="No Power Adapter">No Power Adapter $139.00 USD + $10 US shipping</option>
+	<option value="With Power Adapter">With US Power Adapter $144.00 USD + $10 shipping</option>
+	<option value="No Power Adapter">No Power Adapter $139.00 USD + $35 Int'l shipping</option>
 </select> </td></tr>
 <tr><td><input type="hidden" name="on1" value="Your CZ Model:">Your CZ Model:</td></tr><tr><td><select name="os1">
 	<option value="-- Select Model --">-- Select Model -- </option>
