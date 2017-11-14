@@ -17,11 +17,11 @@ You can then connect external gear to the CZPL and all MIDI messages will be pas
 
 ## How do I use it?
 
-### Preset Mode
-Enter the number of the patch you want to hear and press the A button.  The patch is instantly loaded into your Casio's Memory slot A1.  From here you can save the patch to any of your Casio's Memory locations.  Or, browse the library using the # and * keys.
+<a target="_blank" href="images/CZ Patch Library Manual.pdf">READ THE MANUAL HERE</a>
 
 ## What presets are included?
 
+This is a demonstration of an earlier version, with 1000 patches.  This model contains 1186 more than are shown here!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HUhO5O9OCFc?ecver=1" frameborder="0" allowfullscreen></iframe>
 
 * Basses
