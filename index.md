@@ -3,7 +3,7 @@
 The CZ Patch Library (CZPL) is a little black box for the Casio CZ series of synthesizers.  It contains:
 
 * 2,186 presets.  Brasses, basses, pads, leads, percussion, drums, it's all in there.  
-* 10,000 slots to store the patches you create on the CZ!  No longer are you limited to saving only 16 or 32 patches you create.
+* 10,000 slots to store the patches you create on the CZ!  No longer are you limited to saving only 16 or 32 patches.
 
 <iframe width="720" height="480" src="https://www.youtube.com/embed/IOd8-aQ9bt8?ecver=1" frameborder="0" gesture="media" allowfullscreen></iframe>
 
@@ -65,9 +65,9 @@ Scroll down to order via PayPal or credit card.
 <input type="hidden" name="hosted_button_id" value="3SDW49N6AV32C">
 <table>
 <tr><td><input type="hidden" name="on0" value="Options">Options</td></tr><tr><td><select name="os0">
-	<option value="No Power Adapter">No Power Adapter $139.00 USD</option>
-	<option value="With Power Adapter">With Power Adapter $144.00 USD</option>
-	<option value="No Power Adapter - Int'l Shipping">No Power Adapter - Int'l Shipping $164.00 USD</option>
+	<option value="No Power Adapter">No Power Adapter $129.00 USD</option>
+	<option value="With Power Adapter">With Power Adapter $134.00 USD</option>
+	<option value="No Power Adapter - Int'l Shipping">No Power Adapter - Int'l Shipping $154.00 USD</option>
 </select> </td></tr>
 <tr><td><input type="hidden" name="on1" value="Your CZ Model:">Your CZ Model:</td></tr><tr><td><select name="os1">
 	<option value="-- Select Model --">-- Select Model -- </option>
@@ -82,7 +82,6 @@ Scroll down to order via PayPal or credit card.
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
-
 
 ## I have questions!
 
