@@ -40,9 +40,9 @@ This is a demonstration of an earlier version, with 1000 patches.  This model co
 
 ## How much is it?
 
- * Price is $139 USD.
+ * Price is $129 USD.
  * Shipping is $10 to the US.  
- * Shipping is $35 outside the US, as long as USPS Priority Mail delivers to your location
+ * Shipping is $35 outside the US, as long as USPS Priority Mail delivers to your location.  I must declare the full price of the item on the customs form, please do not ask me to mark it as "gift", etc.
  
 ## How can I get one?
 
@@ -52,13 +52,13 @@ Scroll down to order via PayPal or credit card.
 
 * The product DOES NOT WORK WITH THE CZ-1.  
 * The product is MADE-TO-ORDER.  I do not usually have stock in-house.  In most cases your unit will be on its way to you within 1 week of your order.  I will communicate with you via email to give you updates along the way.  
-* The enclosure is 3D printed. 3D printed objects are not 100% smooth. 
+* The enclosure is 3D printed. 3D printed objects have a textured appearance, plesae see pictures. 
 * Please look at the pictures carefully so you understand exactly what to expect in terms of the way the product looks.
 * Refunds offered only with evidence that there is an electronic fault with the product.  
 
-<img src="images/v2front.JPG" width="320">
-<img src="images/v2back.JPG" width="320" />
-<img src="images/v2midi.JPG" width="320" />
+<img src="images/v2front.JPG" width="560">
+<img src="images/v2back.JPG" width="560" />
+<img src="images/v2midi.JPG" width="560" />
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
