@@ -13,7 +13,7 @@ Connect the CZPL to your Casio CZ-101, CZ-1000, CZ-3000, CZ-5000, or CZ-230S syn
 
 You can then connect external gear to the CZPL and all MIDI messages will be passed through to the Casio.  This lets you use sequencers and external controllers without having to unplug and plug cables.
 
-<img src="images/v2connected.png" width="560" />
+<img src="images/v2connected.JPG" width="560" />
 
 ## How do I use it?
 
