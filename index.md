@@ -36,7 +36,7 @@ This is a demonstration of an earlier version, with 1000 patches.  This model co
 * Voices
 * Winds
 
-<a target="_blank" href="https://docs.google.com/spreadsheets/d/1aBXZzynCTBAEIJE_-qpbOY2Ihl4fIZFf_pI1sdicU9w/edit?usp=sharing">VIEW THE FULL LIST HERE</a>
+<a target="_blank" href="images/CZPL Presets.pdf">VIEW THE FULL LIST HERE</a>
 
 ## How much is it?
 
