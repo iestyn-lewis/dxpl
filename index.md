@@ -52,8 +52,7 @@ Scroll down to order via PayPal or credit card.
 
 * The product DOES NOT WORK WITH THE CZ-1.  
 * The product is MADE-TO-ORDER.  I do not usually have stock in-house.  In most cases your unit will be on its way to you within 1 week of your order.  I will communicate with you via email to give you updates along the way.  
-* The enclosure is 3D printed. 3D printed objects have a textured appearance, plesae see pictures. 
-* Please look at the pictures carefully so you understand exactly what to expect in terms of the way the product looks.
+* The enclosure is 3D printed. 3D printed objects have a textured appearance, please see pictures. 
 * Refunds offered only with evidence that there is an electronic fault with the product.  
 
 <img src="images/v2front.JPG" width="560">
