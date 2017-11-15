@@ -5,7 +5,7 @@ The CZ Patch Library (CZPL) is a little black box for the Casio CZ series of syn
 * 2,186 presets.  Brasses, basses, pads, leads, percussion, drums, it's all in there.  
 * 10,000 slots to store the patches you create on the CZ!  No longer are you limited to saving only 16 or 32 patches.
 
-<iframe width="720" height="480" src="https://www.youtube.com/embed/IOd8-aQ9bt8?ecver=1" frameborder="0" gesture="media" allowfullscreen></iframe>
+<iframe width="720" height="480" src="https://www.youtube.com/embed/-11sqdzhfa4?ecver=1" frameborder="0" gesture="media" allowfullscreen></iframe>
 
 ## How do I connect it?
 
