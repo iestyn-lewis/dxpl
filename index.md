@@ -46,6 +46,8 @@ This is a demonstration of an earlier version, with 1000 patches.  This model co
  
 ## How can I get one?
 
+CURRENT STATUS:  3 Available - shipping on or before November 20
+
 Scroll down to order via PayPal or credit card.  
 
 *Please Read All of the Following carefully before ordering:*
