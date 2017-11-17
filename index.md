@@ -58,7 +58,7 @@ Scroll down to order via PayPal or credit card.
 <img src="images/v2back.JPG" width="560" />
 <img src="images/v2midi.JPG" width="560" />
 
-### CURRENT STATUS:  Awaiting Parts - estimated ship date for orders placed now is Monday, November 27
+### CURRENT STATUS:  Orders placed now will ship Monday, November 27
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
