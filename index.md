@@ -17,7 +17,7 @@ You can then connect external gear to the CZPL and all MIDI messages will be pas
 
 ## How do I use it?
 
-<a target="_blank" href="images/CZ Patch Library Manual.pdf">READ THE MANUAL HERE</a>
+<a target="_blank" href="images/CZ%20Patch%20Library%20Manual%20FV%202.2.pdf">READ THE MANUAL HERE</a>
 
 ## What presets are included?
 
@@ -83,6 +83,15 @@ Scroll down to order via PayPal or credit card.
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-## I have questions!
+## SUPPORT
 
-Contact me:  <a href="mailto:iestyn.lewis@gmail.com">iestyn.lewis@gmail.com</a>
+Please contact me:  <a href="mailto:iestyn.lewis@gmail.com">iestyn.lewis@gmail.com</a>
+
+The latest firmware version is 2.2.  To determine your device's firmware version, unplug your CZPL and plug it back in again.  Immediately after the CZPL "splash" appears, your firmware version will be displayed.  If you do not see a firmware version displayed, you have version 2.0 firmware.  If you would like to upgrade your firmware, please contact me for directions.
+
+### Firmware Version History
+
+* 2.2 - Added CZ-230S mode.  Fixed MIDI IN latency problem.
+* 2.1 - Added manual random patch selection.
+* 2.0 - Initial version.
+
