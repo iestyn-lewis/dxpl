@@ -7,7 +7,7 @@ The CZ Patch Library (CZPL) is an essential companion for the Casio CZ series of
 * 1,000 memory slots to store entire banks of patches.  Save and recall the entire memory of your synthesizer at once!  Perfect for live performance or building your own custom soundsets.
 * An arpeggiator with features from the Roland Jupiter-4 and Korg microKORG arpeggiators.  The Casio CZ series comes to life when you add an arpeggiator.  Latch, keysplit, external and internal trigger.  
 
-<!-- <iframe width="720" height="480" src="https://www.youtube.com/embed/-11sqdzhfa4?ecver=1" frameborder="0" gesture="media" allowfullscreen></iframe> -->
+<iframe width="720" height="480" src="https://www.youtube.com/embed/WNlZNzl1yuE?ecver=1" frameborder="0" gesture="media" allowfullscreen></iframe>
 
 ## How do I connect it?
 
