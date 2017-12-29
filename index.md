@@ -59,7 +59,7 @@ Scroll down to order via PayPal or credit card.
 <img src="images/v2back.JPG" width="560" />
 <img src="images/v2midi.JPG" width="560" />
 
-### CURRENT STATUS:  Out of stock.  Accepting pre-orders, estimated availabilty: January 8.
+### CURRENT STATUS:  Out of stock.  5 available for pre-order, shipping estimate January 8.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
