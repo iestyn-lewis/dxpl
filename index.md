@@ -19,7 +19,7 @@ You can then connect external gear to the CZPL and all MIDI messages will be pas
 
 ## How do I use it?
 
-<a target="_blank" href="images/CZ%20Patch%20Library%20Manual%20FV%20301.pdf">READ THE MANUAL HERE</a>
+<a target="_blank" href="images/CZ%20Patch%20Library%20Manual%20FV%20302.pdf">READ THE MANUAL HERE</a>
 
 ## What presets are included?
 
@@ -93,7 +93,8 @@ The latest firmware version is 3.01.  To determine your device's firmware versio
 
 ### Firmware Version History
 
-* 3.01 - Major version release with CZ-1 support, bank storage and arpeggiator.
+* 3.02 - Expanded arp sequence to 64 steps, added Operational Memory bank save/load for CZ-1, added MIDI Bank/Program Change.
+* 3.01 - Major version release with CZ-1 support, bank storage and arpeggiator.  <a target="_blank" href="images/CZ%20Patch%20Library%20Manual%20FV%20302.pdf">(v3.01 manual)</a>
 
 * 2.03 - Minor fix (random patch display was not updated).
 * 2.02 - Added CZ-230S mode.  Fixed MIDI IN latency problem.
