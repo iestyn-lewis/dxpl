@@ -59,16 +59,16 @@ Scroll down to order via PayPal or credit card.
 <img src="images/v2back.JPG" width="560" />
 <img src="images/v2midi.JPG" width="560" />
 
-### CURRENT STATUS:  Out of stock.  3 available for pre-order, shipping estimate January 28.
+### CURRENT STATUS:  3 in stock, shipping 1-2 days from order.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="3SDW49N6AV32C">
 <table>
 <tr><td><input type="hidden" name="on0" value="Options">Options</td></tr><tr><td><select name="os0">
-	<option value="No Power Adapter">No Power Adapter $129.00 USD</option>
-	<option value="With Power Adapter">With Power Adapter $134.00 USD</option>
-	<option value="No Power Adapter - Int'l Shipping">No Power Adapter - Int'l Shipping $154.00 USD</option>
+	<option value="No Power Adapter">US Shipping - $129.00 + $10 USD</option>
+	<!-- <option value="With Power Adapter">With Power Adapter $134.00 USD</option> -->
+	<option value="No Power Adapter - Int'l Shipping">Non-US Order $129.00 + $35 USD</option>
 </select> </td></tr>
 <tr><td><input type="hidden" name="on1" value="Your CZ Model:">Your Primary CZ Model:</td></tr><tr><td><select name="os1">
 	<option value="-- Select Model --">-- Select Model -- </option>
@@ -89,7 +89,7 @@ Scroll down to order via PayPal or credit card.
 
 Please contact me:  <a href="mailto:iestyn.lewis@gmail.com">iestyn.lewis@gmail.com</a>
 
-The latest firmware version is 3.01.  To determine your device's firmware version, unplug your CZPL and plug it back in again.  Immediately after the CZPL "splash" appears, your firmware version will be displayed.  If you do not see a firmware version displayed, you have version 2.0 firmware.  If you would like to upgrade your firmware, please contact me for directions.
+The latest firmware version is 3.02.  To determine your device's firmware version, unplug your CZPL and plug it back in again.  Immediately after the CZPL "splash" appears, your firmware version will be displayed.  If you do not see a firmware version displayed, you have version 2.0 firmware.  If you would like to upgrade your firmware, please contact me for directions.
 
 ### Firmware Version History
 
