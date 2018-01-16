@@ -68,7 +68,7 @@ Scroll down to order via PayPal or credit card.
 <tr><td><input type="hidden" name="on0" value="Options">Options</td></tr><tr><td><select name="os0">
 	<option value="No Power Adapter">US Shipping - $129.00 + $10 USD</option>
 	<!-- <option value="With Power Adapter">With Power Adapter $134.00 USD</option> -->
-	<option value="No Power Adapter - Int'l Shipping">Non-US Order $129.00 + $35 USD</option>
+	<option value="No Power Adapter - Int'l Shipping">International Shipping - $129.00 + $35 USD</option>
 </select> </td></tr>
 <tr><td><input type="hidden" name="on1" value="Your CZ Model:">Your Primary CZ Model:</td></tr><tr><td><select name="os1">
 	<option value="-- Select Model --">-- Select Model -- </option>
