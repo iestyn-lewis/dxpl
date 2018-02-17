@@ -59,7 +59,7 @@ Scroll down to order via PayPal or credit card.
 <img src="images/v2back.JPG" width="560" />
 <img src="images/v2midi.JPG" width="560" />
 
-### CURRENT STATUS:  2 in stock, shipping in 1-2 business days.
+### CURRENT STATUS:  5 available for pre-order, shipping on or before Feb 25, 2018.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
