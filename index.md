@@ -1,11 +1,11 @@
 ## What is it?
 
-The CZ Patch Library (CZPL) is an essential companion for the Casio CZ series of synthesizers.  It contains:
+The DX Patch Library (DXPL) is an essential companion for the Yamaha DX series of synthesizers.  It contains:
 
-* 2,186 presets.  Brasses, basses, pads, leads, percussion, drums, it's all in there.  
-* 10,000 memory slots to store the patches you create on the CZ!  No longer are you limited to saving only 16 or 32 patches.
+* 5,026 banks of 32 patches each:  Brasses, basses, pads, leads, percussion, drums, it's all in there.  
+* 10,000 memory slots to store the patches you create on your DX!  No longer are you limited to saving 32 patches.
 * 1,000 memory slots to store entire banks of patches.  Save and recall the entire memory of your synthesizer at once!  Perfect for live performance or building your own custom soundsets.
-* An arpeggiator with features from the Roland Jupiter-4 and Korg microKORG arpeggiators.  The Casio CZ series comes to life when you add an arpeggiator.  Latch, keysplit, external and internal trigger.  
+* An arpeggiator with features from the Roland Jupiter-4 and Korg microKORG arpeggiators.  The Yamaha series comes to life when you add an arpeggiator.  Latch, keysplit, external and internal trigger.  
 
 <iframe width="720" height="480" src="https://www.youtube.com/embed/WNlZNzl1yuE?ecver=1" frameborder="0" gesture="media" allowfullscreen></iframe>
 
