@@ -18,7 +18,7 @@ You can then connect external gear to the DXPL and all MIDI messages will be pas
 
 In addition, note on messages from the Yamaha will be translated to values between 0-127.  This means that your DX can finally be used as a master keyboard with modern MIDI velocity values!
 
-<img src="images/dx_connected.JPG" width="560" />
+<img src="images/dx_connected.JPG" width="560" style="transform: rotate(180deg)" />
 
 ## How do I use it?
 
@@ -45,11 +45,11 @@ Scroll down to order via PayPal or credit card.
 * The enclosure is 3D printed. 3D printed objects have a textured appearance, please see pictures. 
 * Refunds offered with evidence that there is an electronic fault with the product.  
 
-<img src="images/dx_front.JPG" width="560">
-<img src="images/dx_top.JPG" width="560" />
-<img src="images/dx_left.JPG" width="560" />
-<img src="images/dx_right.JPG" width="560" />
-<img src="images/dx_back.JPG" width="560" />
+<img src="images/dx_front.JPG" width="560" style="transform: rotate(180deg)" />
+<img src="images/dx_top.JPG" width="560"  style="transform: rotate(180deg)"/>
+<img src="images/dx_left.JPG" width="560" style="transform: rotate(180deg)" />
+<img src="images/dx_right.JPG" width="560"  style="transform: rotate(180deg)"/>
+<img src="images/dx_back.JPG" width="560" style="transform: rotate(180deg)" />
 
 ### CURRENT STATUS:  4 available for pre-order, shipping on or before Feb 25, 2018.
 
