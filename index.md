@@ -2,22 +2,23 @@
 
 The DX Patch Library (DXPL) is an essential companion for the Yamaha DX series of synthesizers.  It contains:
 
-* 5,026 banks of 32 patches each:  Brasses, basses, pads, leads, percussion, drums, it's all in there.  
+* 5,026 banks of 32 patches each:  Keys, bells, brasses, basses, pads, leads, it's all in there.  
 * 10,000 memory slots to store the patches you create on your DX!  No longer are you limited to saving 32 patches.
 * 1,000 memory slots to store entire banks of patches.  Save and recall the entire memory of your synthesizer at once!  Perfect for live performance or building your own custom soundsets.
-* An arpeggiator with features from the Roland Jupiter-4 and Korg microKORG arpeggiators.  The Yamaha DX series comes to life when you add an arpeggiator.  Latch, keysplit, external and internal trigger.  
+* An arpeggiator with features from the Roland Jupiter-4 and Korg microKORG arpeggiators.  The Yamaha DX series comes to life when you add an arpeggiator.  Latch, keysplit, external and internal trigger. 
+* A MIDI velocity normalizer.  The DX keyboards output velocities from 0-100, which limits their usefulness as MIDI controllers.  The DXPL rescales the output velocity to 0-127 so you can use the DX as a MIDI controller and get full dynamic range from your outboard gear.
 
 <iframe width="720" height="480" src="https://www.youtube.com/embed/WNlZNzl1yuE?ecver=1" frameborder="0" gesture="media" allowfullscreen></iframe>
 
 ## How do I connect it?
 
-Connect the DXPL to your Yamaha DX7 synthesizer with 2 MIDI cables and power the CZPL via USB or a 9V power adapter (center positive).  
+Connect the DXPL to your Yamaha DX7 synthesizer with 2 MIDI cables and power the DXPL via USB cable (included) or a 9V power adapter (center positive).  
 
 You can then connect external gear to the DXPL and all MIDI messages will be passed through to the Yamaha.  This lets you use sequencers and external controllers without having to unplug and plug cables.
 
 In addition, note on messages from the Yamaha will be translated to values between 0-127.  This means that your DX can finally be used as a master keyboard with modern MIDI velocity values!
 
-<img src="images/v2connected.JPG" width="560" />
+<img src="images/dx_connected.JPG" width="560" />
 
 ## How do I use it?
 
@@ -25,7 +26,7 @@ In addition, note on messages from the Yamaha will be translated to values betwe
 
 ## What presets are included?
 
-Over 5,000 banks of 32 patches each are preloaded on the DXPL SD Card.  
+Over 5,000 banks of 32 patches each are preloaded on the DXPL SD Card.  These are banks from around the web, and are GUARANTEED to be unique.  
 
 <a target="_blank" href="images/CZPL Presets.pdf">VIEW THE FULL LIST HERE</a>
 
@@ -44,11 +45,13 @@ Scroll down to order via PayPal or credit card.
 * The enclosure is 3D printed. 3D printed objects have a textured appearance, please see pictures. 
 * Refunds offered with evidence that there is an electronic fault with the product.  
 
-<img src="images/v2front.JPG" width="560">
-<img src="images/v2back.JPG" width="560" />
-<img src="images/v2midi.JPG" width="560" />
+<img src="images/dx_front.JPG" width="560">
+<img src="images/dx_top.JPG" width="560" />
+<img src="images/dx_left.JPG" width="560" />
+<img src="images/dx_right.JPG" width="560" />
+<img src="images/dx_back.JPG" width="560" />
 
-### CURRENT STATUS:  5 available for pre-order, shipping on or before Feb 25, 2018.
+### CURRENT STATUS:  4 available for pre-order, shipping on or before Feb 25, 2018.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
@@ -78,9 +81,9 @@ Scroll down to order via PayPal or credit card.
 
 Please contact me:  <a href="mailto:iestyn.lewis@gmail.com">iestyn.lewis@gmail.com</a>
 
-The latest firmware version is 1.00.  To determine your device's firmware version, unplug your DXPL and plug it back in again.  Immediately after the DXPL "splash" appears, your firmware version will be displayed.  
+The latest firmware version is 2.01.  To determine your device's firmware version, unplug your DXPL and plug it back in again.  Immediately after the DXPL "splash" appears, your firmware version will be displayed.  
 
 ### Firmware Version History
 
-* 1.00 - Initial version.
+* 2.01 - Initial release version.
 
