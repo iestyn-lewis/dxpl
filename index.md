@@ -5,7 +5,7 @@ The DX Patch Library (DXPL) is an essential companion for the Yamaha DX series o
 * 5,026 banks of 32 patches each:  Keys, bells, brasses, basses, pads, leads, it's all in there.  
 * 10,000 memory slots to store the patches you create on your DX!  No longer are you limited to saving 32 patches.
 * 1,000 memory slots to store entire banks of patches.  Save and recall the entire memory of your synthesizer at once!  Perfect for live performance or building your own custom soundsets.
-* An arpeggiator with features from the Roland Jupiter-4 and Korg microKORG arpeggiators.  The Yamaha DX series comes to life when you add an arpeggiator.  Latch, keysplit, external and internal trigger. 
+* An arpeggiator with features from the Roland Jupiter-4 and Korg microKORG arpeggiators.  The Yamaha DX series comes to life when you add an arpeggiator.  Latch, keysplit, external and internal trigger.  Can be used as a 64-step sequencer!
 * A MIDI velocity normalizer.  The DX keyboards output velocities from 0-100, which limits their usefulness as MIDI controllers.  The DXPL rescales the output velocity to 0-127 so you can use the DX as a MIDI controller and get full dynamic range from your outboard gear.
 
 <iframe width="720" height="480" src="https://www.youtube.com/embed/WNlZNzl1yuE?ecver=1" frameborder="0" gesture="media" allowfullscreen></iframe>
@@ -22,13 +22,13 @@ In addition, note on messages from the Yamaha will be translated to values betwe
 
 ## How do I use it?
 
-<a target="_blank" href="images/CZ%20Patch%20Library%20Manual%20FV%20302.pdf">READ THE MANUAL HERE</a>
+<b><a target="_blank" href="images/DX Patch Library Manual FV 201.pdf">READ THE MANUAL HERE</a></b>
 
 ## What presets are included?
 
 Over 5,000 banks of 32 patches each are preloaded on the DXPL SD Card.  These are banks from around the web, and are GUARANTEED to be unique.  
 
-<a target="_blank" href="images/CZPL Presets.pdf">VIEW THE FULL LIST HERE</a>
+<b><a target="_blank" href="images/DXPL v2.01 Preset List.pdf">VIEW THE FULL LIST HERE</a></b>
 
 ## How much is it?
 
