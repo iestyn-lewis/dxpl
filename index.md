@@ -8,7 +8,7 @@ The DX Patch Library (DXPL) is an essential companion for the Yamaha DX series o
 * An arpeggiator with features from the Roland Jupiter-4 and Korg microKORG arpeggiators.  The Yamaha DX series comes to life when you add an arpeggiator.  Latch, keysplit, external and internal trigger.  Can be used as a 64-step sequencer!
 * A MIDI velocity normalizer.  The DX keyboards output velocities from 0-100, which limits their usefulness as MIDI controllers.  The DXPL rescales the output velocity to 0-127 so you can use the DX as a MIDI controller and get full dynamic range from your outboard gear.
 
-<iframe width="720" height="480" src="https://www.youtube.com/embed/WNlZNzl1yuE?ecver=1" frameborder="0" gesture="media" allowfullscreen></iframe>
+<iframe width="720" height="480" src="https://www.youtube.com/embed/_XtgJgGsspc?ecver=1" frameborder="0" gesture="media" allowfullscreen></iframe>
 
 ## How do I connect it?
 
