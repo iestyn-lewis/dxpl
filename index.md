@@ -1,3 +1,5 @@
+<b>The DX Patch Library is an independent product that is not built by, marketed, endorsed or supported by Yamaha.</b>
+
 ## What is it?
 
 The DX Patch Library (DXPL) is an essential companion for the Yamaha DX series of synthesizers.  It contains:
