@@ -32,9 +32,8 @@ Over 5,000 banks of 32 patches each are preloaded on the DXPL SD Card.  These ar
 
 ## How much is it?
 
- * Price is $129 USD.
- * Shipping is $10 to the US.  
- * Shipping is $35 outside the US, as long as USPS Priority Mail delivers to your location.  I must declare the full price of the item on the customs form, please do not ask me to mark it as "gift", etc.
+ * Price is $119 USD, shipped to the US.
+ * Price is $109 + $35 ($144) shipped outside the US, as long as USPS Priority Mail delivers to your location.  I must declare the full price of the item ($109) on the customs form, please do not ask me to mark it as "gift", etc.
  
 ## How can I get one?
 
@@ -55,27 +54,18 @@ Scroll down to order via PayPal or credit card.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="3SDW49N6AV32C">
+<input type="hidden" name="hosted_button_id" value="H4E9UTQL9287A">
 <table>
 <tr><td><input type="hidden" name="on0" value="Options">Options</td></tr><tr><td><select name="os0">
-	<option value="No Power Adapter">US Shipping - $129.00 + $10 USD</option>
-	<!-- <option value="With Power Adapter">With Power Adapter $134.00 USD</option> -->
-	<option value="No Power Adapter - Int'l Shipping">International Shipping - $129.00 + $35 USD</option>
-</select> </td></tr>
-<tr><td><input type="hidden" name="on1" value="Your DX Model:">Your Primary Yamaha DX Model:</td></tr><tr><td><select name="os1">
-	<option value="-- Select Model --">-- Select Model -- </option>
-	<option value="CZ-101">CZ-101 </option>
-	<option value="CZ-1000">CZ-1000 </option>
-	<option value="CZ-3000">CZ-3000 </option>
-	<option value="CZ-5000">CZ-5000 </option>
-	<option value="CZ-1">CZ-1</option>
-	<option value="CZ-230S">CZ-230S </option>
+	<option value="US Shipping">US Shipping $119.00 USD</option>
+	<option value="International Shipping">International Shipping $144.00 USD</option>
 </select> </td></tr>
 </table>
 <input type="hidden" name="currency_code" value="USD">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
+
 
 ## SUPPORT
 
