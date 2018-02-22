@@ -20,7 +20,7 @@ You can then connect external gear to the DXPL and all MIDI messages will be pas
 
 In addition, note on messages from the Yamaha will be translated to values between 0-127.  This means that your DX can finally be used as a master keyboard with modern MIDI velocity values!
 
-<img src="images/dx_connected.JPG" width="560"  />
+<img src="images/dx_connected.JPG" width="560"   style="transform: rotate(180deg)"/>
 
 ## How do I use it?
 
