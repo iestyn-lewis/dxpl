@@ -34,8 +34,8 @@ Over 5,000 banks of 32 patches each are preloaded on the DXPL SD Card.  These ar
 
 ## How much is it?
 
- * Price is $119 USD, shipped to the US.
- * Price is $109 + $35 ($144) shipped outside the US, as long as USPS Priority Mail delivers to your location.  I must declare the full price of the item ($109) on the customs form, please do not ask me to mark it as "gift", etc.
+ * Price is $129 + $10 shipping, ($139), shipped to the US.
+ * Price is $129 + $35 shipping, ($144), shipped outside the US, as long as USPS Priority Mail delivers to your location.  I must declare the full price of the item ($129) on the customs form, please do not ask me to mark it as "gift", etc.
  
 ## How can I get one?
 
@@ -52,22 +52,21 @@ Scroll down to order via PayPal or credit card.
 <img src="images/dx_right.JPG" width="560"  style="transform: rotate(180deg)"/>
 <img src="images/dx_back.JPG" width="560" style="transform: rotate(180deg)" />
 
-### CURRENT STATUS:  1 available for pre-order, shipping on or before Feb 25, 2018.
+### CURRENT STATUS:  5 available for pre-order, shipping on or before March 6, 2018.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="H4E9UTQL9287A">
 <table>
 <tr><td><input type="hidden" name="on0" value="Options">Options</td></tr><tr><td><select name="os0">
-	<option value="US Shipping">US Shipping $119.00 USD</option>
-	<option value="International Shipping">International Shipping $144.00 USD</option>
+	<option value="US Shipping">US Shipping $139.00 USD</option>
+	<option value="International Shipping">International Shipping $164.00 USD</option>
 </select> </td></tr>
 </table>
 <input type="hidden" name="currency_code" value="USD">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
-
 
 ## SUPPORT
 
