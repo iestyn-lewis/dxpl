@@ -35,7 +35,7 @@ Over 5,000 banks of 32 patches each are preloaded on the DXPL SD Card.  These ar
 ## How much is it?
 
  * Price is $129 + $10 shipping, ($139), shipped to the US.
- * Price is $129 + $35 shipping, ($144), shipped outside the US, as long as USPS Priority Mail delivers to your location.  I must declare the full price of the item ($129) on the customs form, please do not ask me to mark it as "gift", etc.
+ * Price is $129 + $35 shipping, ($164), shipped outside the US, as long as USPS Priority Mail delivers to your location.  I must declare the full price of the item ($129) on the customs form, please do not ask me to mark it as "gift", etc.
  
 ## How can I get one?
 
