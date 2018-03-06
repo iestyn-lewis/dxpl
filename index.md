@@ -52,7 +52,7 @@ Scroll down to order via PayPal or credit card.
 <img src="images/dx_right.JPG" width="560"  style="transform: rotate(180deg)"/>
 <img src="images/dx_back.JPG" width="560" style="transform: rotate(180deg)" />
 
-### CURRENT STATUS:  2 in stock and shipping now.
+### CURRENT STATUS:  1 in stock and shipping now.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
