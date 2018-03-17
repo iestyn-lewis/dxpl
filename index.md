@@ -52,7 +52,7 @@ Scroll down to order via PayPal or credit card.
 <img src="images/dx_right.JPG" width="560"  style="transform: rotate(180deg)"/>
 <img src="images/dx_back.JPG" width="560" style="transform: rotate(180deg)" />
 
-### CURRENT STATUS:  5 available for pre-order, shipping on or before 3/22/2018.
+### CURRENT STATUS:  4 in stock and shipping in 1-2 business days
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
