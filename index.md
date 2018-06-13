@@ -56,9 +56,10 @@ Please contact me at the Support email address below.  Due to the variable natur
 
 Please contact me:  <a href="mailto:iestyn.lewis@gmail.com">iestyn.lewis@gmail.com</a>
 
-The latest firmware version is 2.01.  To determine your device's firmware version, unplug your DXPL and plug it back in again.  Immediately after the DXPL "splash" appears, your firmware version will be displayed.  
+The latest firmware version is 2.02.  To determine your device's firmware version, unplug your DXPL and plug it back in again.  Immediately after the DXPL "splash" appears, your firmware version will be displayed.  
 
 ### Firmware Version History
 
 * 2.01 - Initial release version.
+* 2.02 - Added delay after each buffer is sent to the DX7.
 
