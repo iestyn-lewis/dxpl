@@ -52,6 +52,8 @@ Please contact me at the Support email address below.  Due to the variable natur
 <img src="images/dx_right.JPG" width="560"  style="transform: rotate(180deg)"/>
 <img src="images/dx_back.JPG" width="560" style="transform: rotate(180deg)" />
 
+### CURRENT STATUS: Out of stock.  Pre-order now for shipment on or before September 27, 2018.
+
 ## SUPPORT
 
 Please contact me:  <a href="mailto:iestyn.lewis@gmail.com">iestyn.lewis@gmail.com</a>
