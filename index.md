@@ -39,7 +39,21 @@ Over 5,000 banks of 32 patches each are preloaded on the DXPL SD Card.  These ar
  
 ## How can I get one?
 
-Please contact me at the Support email address below.  Due to the variable nature of old DX7 synthesizers, I need to communicate with you first to make sure the DXPL will work for your application. 
+### CURRENT STATUS: Out of stock.  Pre-order now for shipment on or before September 27, 2018.
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">	
+<input type="hidden" name="cmd" value="_s-xclick">	
+<input type="hidden" name="hosted_button_id" value="H4E9UTQL9287A">	
+<table>	
+<tr><td><input type="hidden" name="on0" value="Options">Options</td></tr><tr><td><select name="os0">	
+	<option value="US Shipping">US Shipping $139.00 USD</option>	
+	<option value="International Shipping">International Shipping $164.00 USD</option>	
+</select> </td></tr>	
+</table>	
+<input type="hidden" name="currency_code" value="USD">	
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">	
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">	
+</form>
 
 *Please Read All of the Following carefully before ordering:*
 
