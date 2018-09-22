@@ -24,7 +24,7 @@ In addition, note on messages from the Yamaha will be translated to values betwe
 
 ## How do I use it?
 
-<b><a target="_blank" href="images/DX Patch Library Manual FV 201.pdf">READ THE MANUAL HERE</a></b>
+<b><a target="_blank" href="images/DX Patch Library Manual FV 203.pdf">READ THE MANUAL HERE</a></b>
 
 ## What presets are included?
 
@@ -52,7 +52,7 @@ Scroll down to order via PayPal or credit card.
 <img src="images/dx_right.JPG" width="560"  style="transform: rotate(180deg)"/>
 <img src="images/dx_back.JPG" width="560" style="transform: rotate(180deg)" />
 
-### CURRENT STATUS: Out of stock.  Pre-order now for shipment on or before September 27, 2018.
+### CURRENT STATUS: 2 In Stock. Shipping in 1-2 business days.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">	
 <input type="hidden" name="cmd" value="_s-xclick">	
@@ -72,10 +72,11 @@ Scroll down to order via PayPal or credit card.
 
 Please contact me:  <a href="mailto:iestyn.lewis@gmail.com">iestyn.lewis@gmail.com</a>
 
-The latest firmware version is 2.02.  To determine your device's firmware version, unplug your DXPL and plug it back in again.  Immediately after the DXPL "splash" appears, your firmware version will be displayed.  
+The latest firmware version is 2.03.  To determine your device's firmware version, unplug your DXPL and plug it back in again.  Immediately after the DXPL "splash" appears, your firmware version will be displayed.  
 
 ### Firmware Version History
 
 * 2.01 - Initial release version.
 * 2.02 - Added delay after each buffer is sent to the DX7.
+* 2.03 - Improved reliability of patch saving.  Configurable buffer and F7 delay when sending patches.
 
