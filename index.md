@@ -4,7 +4,7 @@
 
 The DX Patch Library (DXPL) is an essential companion for the Yamaha DX series of synthesizers.  It contains:
 
-* 5,026 banks of 32 patches each:  Keys, bells, brasses, basses, pads, leads, it's all in there.  
+* 4,485 banks of 32 patches each:  Keys, bells, brasses, basses, pads, leads, it's all in there.  
 * 10,000 memory slots to store the patches you create on your DX!  No longer are you limited to saving 32 patches.
 * 1,000 memory slots to store entire banks of patches.  Save and recall the entire memory of your synthesizer at once!  Perfect for live performance or building your own custom soundsets.
 * An arpeggiator with features from the Roland Jupiter-4 and Korg microKORG arpeggiators.  The Yamaha DX series comes to life when you add an arpeggiator.  Latch, keysplit, external and internal trigger.  Can be used as a 64-step sequencer!
@@ -28,9 +28,9 @@ In addition, note on messages from the Yamaha will be translated to values betwe
 
 ## What presets are included?
 
-Over 5,000 banks of 32 patches each are preloaded on the DXPL SD Card.  These are banks from around the web, and are GUARANTEED to be unique.  
+Over 4,000 banks of 32 patches each are preloaded on the DXPL SD Card.  These are banks from around the web, and are GUARANTEED to be unique.  
 
-<b><a target="_blank" href="images/DXPL v2.03 Preset List.pdf">VIEW THE FULL LIST HERE</a></b>
+<b><a target="_blank" href="images/DXPL v2.04 Preset List.pdf">VIEW THE FULL LIST HERE</a></b>
 
 ## How much is it?
 
@@ -72,11 +72,14 @@ Scroll down to order via PayPal or credit card.
 
 Please contact me:  <a href="mailto:iestyn.lewis@gmail.com">iestyn.lewis@gmail.com</a>
 
-The latest firmware version is 2.03.  To determine your device's firmware version, unplug your DXPL and plug it back in again.  Immediately after the DXPL "splash" appears, your firmware version will be displayed.  
+The latest firmware version is 2.04.  To determine your device's firmware version, unplug your DXPL and plug it back in again.  Immediately after the DXPL "splash" appears, your firmware version will be displayed.  To upgrade your device, please contact me.
 
 ### Firmware Version History
 
-* 2.01 - Initial release version.
-* 2.02 - Added delay after each buffer is sent to the DX7.
+
+* 2.04 - Further cleaned up presets to remove duplicates and invalid files.  Allowed 0 ms buffer delay when sending.
 * 2.03 - Improved reliability of patch saving.  Configurable buffer and F7 delay when sending patches.
+<b><a target="_blank" href="images/DXPL v2.03 Preset List.pdf">Version 2.03 and previous Preset List</a></b>
+* 2.02 - Added delay after each buffer is sent to the DX7.
+* 2.01 - Initial release version.
 
