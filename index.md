@@ -30,7 +30,7 @@ In addition, note on messages from the Yamaha will be translated to values betwe
 
 Over 5,000 banks of 32 patches each are preloaded on the DXPL SD Card.  These are banks from around the web, and are GUARANTEED to be unique.  
 
-<b><a target="_blank" href="images/DXPL v2.01 Preset List.pdf">VIEW THE FULL LIST HERE</a></b>
+<b><a target="_blank" href="images/DXPL v2.03 Preset List.pdf">VIEW THE FULL LIST HERE</a></b>
 
 ## How much is it?
 
