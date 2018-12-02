@@ -52,7 +52,7 @@ Scroll down to order via PayPal or credit card.
 <img src="images/dx_right.JPG" width="560"  style="transform: rotate(180deg)"/>
 <img src="images/dx_back.JPG" width="560" style="transform: rotate(180deg)" />
 
-### CURRENT STATUS: OUT OF STOCK.  Pre-order now for shipment on or before December 3, 2018.
+### CURRENT STATUS: OUT OF STOCK.  Pre-order now for shipment on or before January 5, 2019.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">	
 <input type="hidden" name="cmd" value="_s-xclick">	
