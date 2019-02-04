@@ -2,6 +2,8 @@
 
 ## What is it?
 
+# The DX Patch Library has been upgraded to the PL88 Patch Library.   The PL88 includes all features as described below, plus presets and patch storage for other synthesizers.  Please visit https://lewismidi.com/pl88 
+
 The DX Patch Library (DXPL) is an essential companion for the Yamaha DX series of synthesizers.  It contains:
 
 * 4,485 banks of 32 patches each:  Keys, bells, brasses, basses, pads, leads, it's all in there.  
@@ -31,48 +33,16 @@ In addition, note on messages from the Yamaha will be translated to values betwe
 Over 4,000 banks of 32 patches each are preloaded on the DXPL SD Card.  These are banks from around the web, and are GUARANTEED to be unique.  
 
 <b><a target="_blank" href="images/DXPL v2.04 Preset List.pdf">VIEW THE FULL LIST HERE</a></b>
-
-## How much is it?
-
- * Price is $129 + $10 shipping, ($139), shipped to the US.
- * Price is $129 + $35 shipping, ($164), shipped outside the US, as long as USPS Priority Mail delivers to your location.  I must declare the full price of the item ($129) on the customs form, please do not ask me to mark it as "gift", etc.
  
 ## How can I get one?
 
-Scroll down to order via PayPal or credit card.  
-
-*Please Read All of the Following carefully before ordering:*
-
-* The enclosure is 3D printed. 3D printed objects have a textured appearance, please see pictures. 
-* Refunds offered with evidence that there is an electronic fault with the product.  
-
-<img src="images/dx_front.JPG" width="560" style="transform: rotate(180deg)" />
-<img src="images/dx_top.JPG" width="560"  style="transform: rotate(180deg)"/>
-<img src="images/dx_left.JPG" width="560" style="transform: rotate(180deg)" />
-<img src="images/dx_right.JPG" width="560"  style="transform: rotate(180deg)"/>
-<img src="images/dx_back.JPG" width="560" style="transform: rotate(180deg)" />
-
-### CURRENT STATUS:  OUT OF STOCK.  Pre-order now for shipping on or before February 11, 2019.
-
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">	
-<input type="hidden" name="cmd" value="_s-xclick">	
-<input type="hidden" name="hosted_button_id" value="H4E9UTQL9287A">	
-<table>	
-<tr><td><input type="hidden" name="on0" value="Options">Options</td></tr><tr><td><select name="os0">	
-	<option value="US Shipping">US Shipping $139.00 USD</option>	
-	<option value="International Shipping">International Shipping $164.00 USD</option>	
-</select> </td></tr>	
-</table>	
-<input type="hidden" name="currency_code" value="USD">	
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">	
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">	
-</form>
+The DXPL has been replaced by the PL88, which gives you access to presets and patch storage for all of your synthesizers, not just the Yamaha DX7.  Please visit https://lewismidi.com/pl88
 
 ## SUPPORT
 
 Please contact me:  <a href="mailto:iestyn.lewis@gmail.com">iestyn.lewis@gmail.com</a>
 
-The latest firmware version is 2.04.  To determine your device's firmware version, unplug your DXPL and plug it back in again.  Immediately after the DXPL "splash" appears, your firmware version will be displayed.  To upgrade your device, please contact me.
+Your DXPL can be upgraded to the new PL88 firmware and patchset, which will give you access to patches and storage for all of your synthesizers, not just the Yamaha DX Series.   Please visit https://lewismidi.com/pl88
 
 ### Firmware Version History
 
