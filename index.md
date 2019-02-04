@@ -2,7 +2,7 @@
 
 ## What is it?
 
-# The DX Patch Library has been upgraded to the PL88 Patch Library.   The PL88 includes all features as described below, plus presets and patch storage for other synthesizers.  Please visit https://lewismidi.com/pl88 
+# The DX Patch Library has been upgraded to the PL88 Patch Library.   The PL88 includes all features as described below, plus presets and patch storage for other synthesizers.  Please visit [lewismidi.com/pl88](https://lewismidi.com/pl88) 
 
 The DX Patch Library (DXPL) is an essential companion for the Yamaha DX series of synthesizers.  It contains:
 
@@ -36,13 +36,13 @@ Over 4,000 banks of 32 patches each are preloaded on the DXPL SD Card.  These ar
  
 ## How can I get one?
 
-The DXPL has been replaced by the PL88, which gives you access to presets and patch storage for all of your synthesizers, not just the Yamaha DX7.  Please visit https://lewismidi.com/pl88
+The DXPL has been replaced by the PL88, which gives you access to presets and patch storage for all of your synthesizers, not just the Yamaha DX7.  Please visit [lewismidi.com/pl88](https://lewismidi.com/pl88)
 
 ## SUPPORT
 
 Please contact me:  <a href="mailto:iestyn.lewis@gmail.com">iestyn.lewis@gmail.com</a>
 
-Your DXPL can be upgraded to the new PL88 firmware and patchset, which will give you access to patches and storage for all of your synthesizers, not just the Yamaha DX Series.   Please visit https://lewismidi.com/pl88
+Your DXPL can be upgraded to the new PL88 firmware and patchset, which will give you access to patches and storage for all of your synthesizers, not just the Yamaha DX Series.   Please visit [lewismidi.com/pl88](https://lewismidi.com/pl88)
 
 ### Firmware Version History
 
